@@ -10,6 +10,10 @@ description: >
   This skill is READ-ONLY — it does NOT support trading, placing orders, deposits,
   withdrawals, or any write operations.
 compatibility: Requires curl, jq, and BITPANDA_API_KEY environment variable
+metadata:
+  homepage: https://github.com/bitpanda-labs/agent-skills
+  requires-bins: curl jq
+  requires-env: BITPANDA_API_KEY
 ---
 
 # Bitpanda
