@@ -5,7 +5,7 @@ description: >
   Covers all read-only endpoints: balances, trades, transactions, asset info, and live prices.
   Use when the user wants to check their Bitpanda portfolio, balances, trade history,
   deposits, withdrawals, asset prices, or any account information from Bitpanda.
-  Triggers on mentions of Bitpanda, crypto portfolio on Bitpanda, price checks, or requests
+  Usable for mentions of Bitpanda, crypto portfolio on Bitpanda, price checks, or requests
   involving Bitpanda wallet/trade data.
   This skill is READ-ONLY — it does NOT support trading, placing orders, deposits,
   withdrawals, or any write operations.
